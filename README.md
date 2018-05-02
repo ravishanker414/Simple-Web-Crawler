@@ -5,7 +5,7 @@ This is a simple web crawler written in **`PHP`**.
 
 **Note:-** Minimum requirements are PHP 5.3+
 
-Please run the `index.php` in command line or browser.
+Please run the `example.php` in command line or browser.
 
 The application lists out `20` URLs by default.
 Edit the value to a higher by `$crawler->setLinksAllowed(Your Value)`.
